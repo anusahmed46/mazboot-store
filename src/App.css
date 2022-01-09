@@ -1,0 +1,11 @@
+#card {
+  border: none;
+}
+
+.product image {
+  transition: all 0.5s ease;
+}
+
+.product image:hover {
+  transform: scale(1.1);
+}
